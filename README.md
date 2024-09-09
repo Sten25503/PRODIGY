@@ -1,4 +1,5 @@
 Internship Projects at Prodigy InfoTech
+
 This repository showcases a collection of projects completed during my internship at Prodigy InfoTech. These projects demonstrate a range of skills, including GUI development, game design, data management, algorithmic problem-solving, and web scraping.
 
 Projects Overview
